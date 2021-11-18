@@ -5,7 +5,7 @@ interface Props {
 }
 
 export default styled.button<Props>`
-  background: ${(props) => (props.outlined ? 'transparent' : 'var(--twitter)')};
+  background: ${(props) => (props.outlined ? 'transparent' : 'var(--twitter)')}; // se não estiver selecionado vai ser tranparente, e se estiver selecionado será azul
   color: ${(props) => (props.outlined ? 'var(--twitter)' : 'var(--white)')};
   border: ${(props) => (props.outlined ? '1px solid var(--twitter)' : 'none')};
 

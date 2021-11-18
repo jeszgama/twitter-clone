@@ -20,7 +20,7 @@
 
 - colorize: mostra as cores declaradas
 - vscode-styled-components: permite que o css seja estilizado dentro do type
-- rocketseat react js e rocketseat react native: atalhos para a criação de components
+- rocketseat react js e rocketseat react native: atalhos para a criação de components (snippets)
 - bracket pair colorizer - {} são personalizados
 - prettier: identação do código
 
@@ -28,9 +28,9 @@
 
 ### Configurando ambiente:
 
-criar arquivo .prettierrc
+criar arquivos .prettierrc e .editorconfig na raiz do projeto:
 
-criar arquivo .editorconfig
+- .prettierrc e .editorconfig são arquivos de configuração
 
 na pasta src deixar apenas os arquivos:
 
@@ -42,11 +42,19 @@ na pasta src deixar apenas os arquivos:
 
 `yarn add styled-components styled-icons`
 
+- styled-components vai auxiliar com a estilização do css
+
+- styled-icons é uma biblioteca de icones
+
 `yarn add react-sticky-box`
+
+- sticky-box: auxilia na responsividade
 
 -- dependencias de desenvolvimento:
 
 `yarn add -D @types/styled-components`
+
+- instalando para conseguir usar com o typescript
 
  <hr>
 
@@ -64,7 +72,7 @@ na pasta src deixar apenas os arquivos:
 
  - criar pasta components
 
- - criar Layout/Main...  e dentro dele uma index.tsx e um styles.ts
+ - criar os componentes (Layout/Main...) e dentro dos respectivos uma index.tsx e um styles.ts
 
  <hr>
 
