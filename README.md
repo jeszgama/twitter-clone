@@ -1,7 +1,5 @@
 # Criando projeto
 
- `cd pastaprojetos`
-
  -- Comando para criar o projeto:
 
  - `npx create-react-app nomedoprojeto --template=typescript`
@@ -20,7 +18,11 @@
 
 ### Extensões:
 
-- colorize, vscode-styled-components, rocketseat react js, rocketseat react native, bracket pair colorizer, prettier
+- colorize: mostra as cores declaradas
+- vscode-styled-components: permite que o css seja estilizado dentro do type
+- rocketseat react js e rocketseat react native: atalhos para a criação de components
+- bracket pair colorizer - {} são personalizados
+- prettier: identação do código
 
 <hr>
 
@@ -62,6 +64,6 @@ na pasta src deixar apenas os arquivos:
 
  - criar pasta components
 
- - criar Layout e dentro dele uma index.tsx e um styles.ts
+ - criar Layout/Main...  e dentro dele uma index.tsx e um styles.ts
 
 
