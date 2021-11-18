@@ -4,6 +4,8 @@
 
  - `npx create-react-app nomedoprojeto --template=typescript`
 
+ -- Se não inserir o `--template=typescript` o projeto será criado com java ao inves de typescript
+
  ou se estiver instalado o yarn: 
 
  - `yarn create-react-app nomedoprojeto --template=typescript`
@@ -42,9 +44,9 @@ na pasta src deixar apenas os arquivos:
 
 `yarn add styled-components styled-icons`
 
-- styled-components vai auxiliar com a estilização do css
+- styled-components: auxilia na estilização do css
 
-- styled-icons é uma biblioteca de icones
+- styled-icons: uma biblioteca de icones
 
 `yarn add react-sticky-box`
 
@@ -62,6 +64,8 @@ na pasta src deixar apenas os arquivos:
 
  - `"isolatedModules": false,`
 
+ -- tsconfig.json:  especifica os arquivos raiz e as opções do compilador.
+
  <hr>
 
  ### Configurando aplicação:
@@ -75,6 +79,14 @@ na pasta src deixar apenas os arquivos:
  - criar os componentes (Layout/Main...) e dentro dos respectivos uma index.tsx e um styles.ts
 
  <hr>
+
+ ### Components:
+
+ -- Os components devem ser declarados com a letra maiuscula: `<Container/>`
+
+ -- root: insere em todo o site
+
+ -- Importante se lembrar de sempre importar os componentes e bibliotecas que estão sendo utilizadas
 
  
 
