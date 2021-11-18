@@ -58,8 +58,8 @@ const MenuBar: React.FC = () => {
         <Avatar />
 
         <ProfileData>
-          <strong>Guilherme Rodz</strong>
-          <span>@guilherme_rodz</span>
+          <strong>Jéssica Gama</strong>
+          <span>@jessicagama</span>
         </ProfileData>
 
         <ExitIcon />
