@@ -66,4 +66,8 @@ na pasta src deixar apenas os arquivos:
 
  - criar Layout/Main...  e dentro dele uma index.tsx e um styles.ts
 
+ <hr>
+
+ 
+
 
