@@ -1,6 +1,10 @@
-# Aplicação 
+# Aplicação:
 
-[Twitter](https://jessica-twitter.netlify.app/) 
+<a href="https://jessica-twitter.netlify.app/" target="_blank" >Clique aqui para abrir a aplicação do Twitter</a>
+
+![Print1](./public/print1.png)
+
+![Print2](./public/print2.png)
 
 # Criando projeto
 
