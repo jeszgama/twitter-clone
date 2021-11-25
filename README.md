@@ -15,8 +15,6 @@
 
 ![Print1](./public/print1.png)
 
-![Print2](./public/print2.png)
-
 <hr>
 
 ## Criando projeto
