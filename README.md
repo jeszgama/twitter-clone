@@ -2,11 +2,24 @@
 
 <a href="https://jessica-twitter.netlify.app/" target="_blank" >Clique aqui para abrir a aplicação do Twitter</a>
 
+### Linguagens utilizadas neste projeto:
+<div>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+</div>
+<br>
+
+### Imagens da página:
+
 ![Print1](./public/print1.png)
 
 ![Print2](./public/print2.png)
 
-# Criando projeto
+<hr>
+
+## Criando projeto
 
  -- Comando para criar o projeto:
 
