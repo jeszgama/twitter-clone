@@ -2,7 +2,9 @@
 
 <a href="https://jessica-twitter.netlify.app/" target="_blank" >Clique aqui para abrir a aplicação do Twitter</a>
 
-<a href="https://jessica-twitter.netlify.app/" target="_blank" >Clique aqui para abrir a aplicação do Twitter</a>
+Link do tutorial:
+
+<a href="https://www.youtube.com/watch?v=K-8z_4xvT3o&t=6726s" target="_blank" >Clique aqui para abrir o tutorial</a>
 
 ### Linguagens utilizadas neste projeto:
 <div>
