@@ -2,6 +2,8 @@
 
 <a href="https://jessica-twitter.netlify.app/" target="_blank" >Clique aqui para abrir a aplicação do Twitter</a>
 
+<a href="https://jessica-twitter.netlify.app/" target="_blank" >Clique aqui para abrir a aplicação do Twitter</a>
+
 ### Linguagens utilizadas neste projeto:
 <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
